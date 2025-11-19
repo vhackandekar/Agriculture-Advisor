@@ -1,5 +1,3 @@
-# Krishi Jyoti 🌾
-
 **Voice-First AI-Powered Agricultural Advisory System with Real-Time RAG Pipeline**
 
 Krishi Jyoti is a comprehensive, multilingual agricultural advisory platform designed to empower farmers with AI-driven insights and expert guidance. The system features real-time voice conversation capabilities, intelligent RAG-based government schemes chatbot, and supports voice, text, and image-based queries in multiple Indian languages.
