@@ -1,0 +1,50 @@
+# Frontend
+node_modules/
+build/
+dist/
+.next/
+.nuxt/
+.vuepress/dist/
+
+# Backend Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+env/
+.env
+.env.*
+
+# Database
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# ML Models
+*.pkl
+*.joblib
+*.h5
+models/
+# Allow embeddings in AI backend
+!backend/ai/models/embeddings/
+
+# Uploads
+uploads/
+temp/
+tmp/
